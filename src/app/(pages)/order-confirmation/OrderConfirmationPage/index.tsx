@@ -39,7 +39,7 @@ export const OrderConfirmationPage: React.FC<{}> = () => {
         </Fragment>
       ) : (
         <Fragment>
-          <h1>Thank you for your order!</h1>
+          <h1>Thank you for your Ordering!</h1>
           <p>
             {`Your order has been confirmed. You will receive an email confirmation shortly. Your order ID is ${orderID}.`}
           </p>
